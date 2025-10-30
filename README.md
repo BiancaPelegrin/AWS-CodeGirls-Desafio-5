@@ -1,5 +1,7 @@
 # AWS-CodeGirls-Desafio-5
-Repositório destinado ao projeto 5 do Bootcamp DIO AWS 2025
+
+
+----
 
 
 # 🚀 Guia de Introdução: AWS CloudFormation e Terraform
